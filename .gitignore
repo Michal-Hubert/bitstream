@@ -1,3 +1,12 @@
+# Directories
+/build/
+/cmake-build-debug/
+/third_party/
+.idea
+
+# Modules
+.gitmodules
+
 # Prerequisites
 *.d
 
