@@ -1,7 +1,7 @@
 # Directories
 /build/
 /cmake-build-debug/
-/third_party/
+/third_party1/
 .idea
 
 # Modules
