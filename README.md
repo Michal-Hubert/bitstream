@@ -1,5 +1,5 @@
 # Bitstream
-![bitstream-release](https://github.com/michal-hubert/bitstream/workflows/bitstream-release/badge.svg?branch=master)
+![bitstream-release](https://github.com/michal-hubert/bitstream/actions/workflows/release.yml/badge.svg?branch=master)
 
 
 C++ class (header only) allowing to put/get individual bits instead of whole bytes.
