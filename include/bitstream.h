@@ -38,7 +38,7 @@ public:
    */
   template<typename T>
   T getUnsafe(size_t bits) {
-    T result;
+    T result = T();
     while (bits)
     {
       result <<= bits;
