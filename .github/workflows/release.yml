@@ -1,4 +1,4 @@
-name: my-workflow-name
+name: bitstream-release
 
 on:
   push:
