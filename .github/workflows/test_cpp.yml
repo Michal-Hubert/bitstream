@@ -17,5 +17,5 @@ jobs:
       run: mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-Werror" ..
     - name: make
       run: cd build && make
-#    - name: Run Test
-#      run: /home/runner/work/bitstream/bitstream/build/test
+    - name: Run Test
+      run: /home/runner/work/bitstream/bitstream/build/test
